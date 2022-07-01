@@ -1,0 +1,47 @@
+body{
+
+
+background-image: linear-gradient( 
+        
+    0deg,
+    rgba(0,0,0,0.5 ),
+    rgba(0,0,0,0.5 )
+    ), url(/img/fondoingresar.png);
+
+}
+
+
+
+
+
+.contenedornav {
+    background-color: #500751 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+.title{
+
+
+
+    color: rgb(12, 12, 12)  ;
+    
+    font-size: 2.1rem;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    
+    .contenedornav {
+       background-color: rgb(62, 0, 121);
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+    .minicontenedor{
+
+        margin-top:60px ;
+     }

@@ -1,0 +1,54 @@
+
+
+.minicontenedor{
+
+   margin-top:100px ;
+}
+
+.navbar {
+   background-color: #500751;
+   box-shadow: 0 0 5px 1px;
+}
+
+body{
+   
+background-image: linear-gradient( 
+        
+   0deg,
+   rgba(0,0,0,0.5 ),
+   rgba(0,0,0,0.5 )
+   )
+   ,url("/img/fonditorosa.png")   ;
+
+
+
+
+   /* background-color: purple !important ; */
+
+
+
+
+}
+
+
+
+
+
+
+.title{
+
+
+
+color: rgb(12, 12, 12)  ;
+
+font-size: 2.1rem;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.contenedornav {
+   background-color: rgb(62, 0, 121);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

@@ -1,0 +1,32 @@
+
+
+
+.logo {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+}
+
+
+.contenedornav {
+    background-color: #500751;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 0 5px 1px;
+}
+.agrupar {
+    width: 45%;
+    height: 40%;
+    border: 0px solid #000000;
+    margin: 20px;
+    background: #ffffff;
+    float: center;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+
+
+
+    

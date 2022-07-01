@@ -1,0 +1,61 @@
+
+
+body {
+    font-family: Verdana;
+    animation-name: color-change;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+/* @keyframes color-change {
+        0% {
+            background-color: aliceblue;
+        }
+        50% {
+            background-color: blue;
+        }
+        100% {
+            background-color: yellow;
+        }
+
+
+}*/
+
+
+
+.logo {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+}
+
+a:hover {
+    background-color: #230424;
+}
+
+.contenedornav {
+    background-color: #500751;
+    box-shadow: 0 0 5px 1px;
+
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.mover {
+    margin-left: 80%;
+    display: flex;
+}
+
+
+.dv2 {
+    padding: 105px;
+    background-image: url(/img/fondodiv1.png);
+    color: rgba(255, 255, 255, 0.736);
+    font-size: 2.1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
